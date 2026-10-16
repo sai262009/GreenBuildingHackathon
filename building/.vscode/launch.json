@@ -1,0 +1,1 @@
+{"version":"0.2.0","configurations":[{"name":"Smart Campus (Flask)","type":"debugpy","request":"launch","program":"${workspaceFolder}/app.py","console":"integratedTerminal"}]}
